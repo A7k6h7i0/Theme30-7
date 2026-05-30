@@ -14,7 +14,7 @@ const AboutPage = () => {
       <section className="relative h-[70vh] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="https://images.unsplash.com/photo-1506806732259-39c2d4468673?auto=format&fit=crop&q=80&w=2000" 
+            src="https://images.unsplash.com/photo-1776972334890-018cb3b3e3c6?auto=format&fit=crop&q=80&w=2000" 
             alt="Artisan Workshop" 
             className="w-full h-full object-cover"
           />
@@ -60,7 +60,7 @@ const AboutPage = () => {
           </div>
           <div className="relative">
             <img 
-              src="https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=1000" 
+              src="https://images.unsplash.com/photo-1776584615508-e70141dc7823?auto=format&fit=crop&q=80&w=1000" 
               alt="Artisan working" 
               className="w-full aspect-[4/5] object-cover luxury-shadow"
             />

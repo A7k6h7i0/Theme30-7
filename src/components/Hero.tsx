@@ -76,7 +76,7 @@ const Hero = () => {
         >
           <div className="absolute inset-0 border-2 border-secondary/20 translate-x-6 translate-y-6 -z-10" />
           <img 
-            src="https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?auto=format&fit=crop&q=80&w=1200" 
+            src="https://images.unsplash.com/photo-1776584615508-e70141dc7823?auto=format&fit=crop&q=80&w=1200" 
             alt="Handmade Craftsmanship" 
             className="w-full h-full object-cover luxury-shadow"
           />

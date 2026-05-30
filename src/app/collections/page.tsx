@@ -12,21 +12,21 @@ const collections = [
     id: "resin",
     title: "The Ethereal Resin Series",
     description: "Capturing the fluid beauty of nature in high-clarity epoxy resin.",
-    image: "https://images.unsplash.com/photo-1590736704228-a4d752206677?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1772459125358-e587337c4a92?auto=format&fit=crop&q=80&w=1200",
     count: 12
   },
   {
     id: "decor",
     title: "Modern Minimalist Decor",
     description: "Hand-thrown ceramics and artisanal objects for the contemporary home.",
-    image: "https://images.unsplash.com/photo-1581781870027-04212e231e96?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1776972334890-018cb3b3e3c6?auto=format&fit=crop&q=80&w=1200",
     count: 8
   },
   {
     id: "personalized",
     title: "Bespoke Treasures",
     description: "Custom-made gifts that carry personal stories and memories.",
-    image: "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=1200",
+    image: "https://images.unsplash.com/photo-1777446695149-927b3aec69e1?auto=format&fit=crop&q=80&w=1200",
     count: 15
   }
 ];

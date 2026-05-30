@@ -79,7 +79,7 @@ export default function Home() {
             {/* Home Decor */}
             <Link href="/shop?category=decor" className="group relative aspect-[4/5] overflow-hidden md:translate-y-12">
               <img 
-                src="https://images.unsplash.com/photo-1513519245088-0e12902e5a38?auto=format&fit=crop&q=80&w=800" 
+                src="https://images.unsplash.com/photo-1776972334890-018cb3b3e3c6?auto=format&fit=crop&q=80&w=800" 
                 alt="Home Decor" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
@@ -95,7 +95,7 @@ export default function Home() {
             {/* Personalized Gifts */}
             <Link href="/shop?category=personalized" className="group relative aspect-[4/5] overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&q=80&w=800" 
+                src="https://images.unsplash.com/photo-1777446695149-927b3aec69e1?auto=format&fit=crop&q=80&w=800" 
                 alt="Personalized Gifts" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
               />
